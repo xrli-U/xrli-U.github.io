@@ -17,42 +17,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# Xurui Li (李煦蕤)
+- *2023.06 - present*, 硕博连读，华中科技大学.
+- *2025.06 - 2025.08*, Intern at Tencent YouTu Lab.
+- *2019.09 - 2023.06*, 本科，华中科技大学.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Email: xrli-u@qq.com | xrli_plus@hust.edu.cn
+
+# 🔥 Papers
+
+<span style="color:#b02418; font-weight:bold;">#</span> Contributed Equally | <span style="color:#b02418; font-weight:bold;">*</span> Corresponding Author <br>
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<ol reversed>
+  <li id="TPAMI26"> 
+    MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples
+    <br> <a href="https://ieeexplore.ieee.org/abstract/document/11498451">[Paper]</a> <a href="https://github.com/HUST-SLOW/MuSc-V2">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/MuSc-V2" alt="GitHub stars"> <br>
+    <br> <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Feng Xue, Yu Zhou* <br>
+    <i> IEEE Transactions on Pattern Analysis and Machine Intelligence.  <strong>(TPAMI)</strong>. 2026. </i>
+  </li>
 
-# 📝 Publications 
+  <li id="ICCV25"> 
+    SeaS: Few-shot Industrial Anomaly Image Generation with Separation and Sharing Fine-tuning 
+    <br> <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Dai_SeaS_Few-shot_Industrial_Anomaly_Image_Generation_with_Separation_and_Sharing_ICCV_2025_paper.pdf">[Paper]</a> <a href="https://github.com/HUST-SLOW/SeaS">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/SeaS" alt="GitHub stars"> <br>
+    <br> Zhewei Dai#, Shilei Zeng#, Haotian Liu, <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Feng Xue, Yu Zhou* <br>
+    <i> IEEE Conference on International Conference on Computer Vision.  <strong>(ICCV)</strong>. 2025. </i>
+  </li>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+  <li id="VAND3"> 
+    RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images
+    <br> <a href="https://arxiv.org/pdf/2505.21152">[Paper]</a> <a href="https://github.com/xrli-U/RoBiS">[Code]</a> <img src="https://img.shields.io/github/stars/xrli-U/RoBiS" alt="GitHub stars"> <br>
+    <br> <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Zhongsheng Jiang, Tingxuan Ai, Yu Zhou* <br>
+    <i> CVPR2025 VAND3.0 challenge Track 1 <strong>(Second place)</strong>. </i>
+  </li>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  <li id="CVPR25"> 
+    AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios
+    <br> <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_AnomalyNCD_Towards_Novel_Anomaly_Class_Discovery_in_Industrial_Scenarios_CVPR_2025_paper.pdf">[Paper]</a> <a href="https://github.com/HUST-SLOW/AnomalyNCD">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/AnomalyNCD" alt="GitHub stars"> <br>
+    <br> Ziming Huang#, <span style="color:#b02418; font-weight:bold;">Xurui Li#</span>, Haotian Liu#, Feng Xue, Yuzhe Wang, Yu Zhou* <br>
+    <i> IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>. 2025. </i>
+  </li>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  <li id="ICLR24"> 
+    MuSc: Zero-Shot Industrial Anomaly Classification and Segmentation with Mutual Scoring of the Unlabeled Images
+    <br> <a href="https://openreview.net/pdf?id=AHgc5SMdtd">[Paper]</a> <a href="https://github.com/xrli-U/MuSc">[Code]</a> <img src="https://img.shields.io/github/stars/xrli-U/MuSc" alt="GitHub stars"> <br>
+    <br> <span style="color:#b02418; font-weight:bold;">Xurui Li#</span>, Ziming Huang#, Feng Xue, Yu Zhou* <br>
+    <i> The Twelfth International Conference on Learning Representations <strong>(ICLR)</strong>. 2024. </i>
+  </li>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+</ol>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05* CVPR2025 workshop VAND3.0 challenge (Second place)
+- *2024.11* 第十九届“挑战杯”全国大学生课外学术科技作品竞赛“揭榜挂帅”专项赛（全国一等奖）
+- *2024.10* 硕士生国家奖学金
+- *2024.09* “华为杯”第六届中国研究生人工智能创新大赛（全国一等奖，团队队长）
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
