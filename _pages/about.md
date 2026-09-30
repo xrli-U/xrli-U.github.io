@@ -18,15 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Xurui Li (李煦蕤)
-- *2023.09 - present*, 硕博连读，华中科技大学.
+- *2025.09 - present*, 博士（硕博连读），华中科技大学.
 - *2025.06 - 2025.08*, Intern at Tencent YouTu Lab.
+- *2023.09 - 2025.06*, 硕士（转博），华中科技大学.
 - *2019.09 - 2023.06*, 本科，华中科技大学.
 
 WeChat: 19807226240
 
 Email: xrli-u@qq.com | xrli_plus@hust.edu.cn
 
-# 🔥 Papers
+# 🔥 Publications
 
 <span style="color:#b02418; font-weight:bold;">#</span> Contributed Equally
 
@@ -36,21 +37,21 @@ Email: xrli-u@qq.com | xrli_plus@hust.edu.cn
     AnoCalib: Unified Anomaly-aware Feature Calibration for Zero-shot Industrial Anomaly Detection
     <br> Tianyi Ma, Feng Xue, Dayou Huang, <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Shilei Zeng, Yuyi Tian, Yu Zhou <br>
     <i> Pattern Recognition.  <strong>(PR)</strong>. 2026. </i>
-    <br> <a href="https://www.sciencedirect.com/science/article/pii/S0031320326017747">[Paper]</a> <a href="XXX">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/XXX" alt="GitHub stars"> <br>
+    <br> <a href="https://www.sciencedirect.com/science/article/pii/S0031320326017747">[Paper]</a> <a href="https://github.com/HUST-SLOW/AnoCalib">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/AnoCalib" alt="GitHub stars"> <br>
   </li>
 
   <li id="ECCV26-1"> 
     DeCo: Zero-Shot Anomaly Generation through Decoupling and Recoupling
     <br> Shilei Zeng, <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Yaohan Tang, Yu Zhou <br>
     <i> European Conference on Computer Vision.  <strong>(ECCV)</strong>. 2026. </i>
-    <br> <a href="">[Paper]</a> <a href="https://arxiv.org/pdf/2608.07904">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/DeCo" alt="GitHub stars"> <br>
+    <br> <a href="https://arxiv.org/pdf/2608.07904">[Paper]</a> <a href="https://github.com/HUST-SLOW/DeCo">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/DeCo" alt="GitHub stars"> <br>
   </li>
 
   <li id="ECCV26-2"> 
     UniScale: Arbitrary-Scale Anomaly Generation
     <br> Shilei Zeng#, Linxin Guan#, <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Yaohan Tang, Yu Zhou <br>
     <i> European Conference on Computer Vision.  <strong>(ECCV)</strong>. 2026. </i>
-    <br> <a href="https://arxiv.org/pdf/2608.07864">[Paper]</a> <a href="">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/UniScale" alt="GitHub stars"> <br>
+    <br> <a href="https://arxiv.org/pdf/2608.07864">[Paper]</a> <a href="https://github.com/HUST-SLOW/UniScale">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/UniScale" alt="GitHub stars"> <br>
   </li>
 
   <li id="TPAMI26"> 
@@ -86,6 +87,26 @@ Email: xrli-u@qq.com | xrli_plus@hust.edu.cn
     <br> <span style="color:#b02418; font-weight:bold;">Xurui Li#</span>, Ziming Huang#, Feng Xue, Yu Zhou <br>
     <i> The Twelfth International Conference on Learning Representations <strong>(ICLR)</strong>. 2024. </i>
     <br> <a href="https://openreview.net/pdf?id=AHgc5SMdtd">[Paper]</a> <a href="https://github.com/xrli-U/MuSc">[Code]</a> <img src="https://img.shields.io/github/stars/xrli-U/MuSc" alt="GitHub stars"> <br>
+  </li>
+</ol>
+
+# 🔥 Other papers
+
+<span style="color:#b02418; font-weight:bold;">#</span> Contributed Equally
+
+<ol reversed>
+  <li id="arxiv26"> 
+    Focus and Supplement: Dual-Enhanced Vision Transformer for Multi-Class Anomaly Classification
+    <br> <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Enjie Xu, ChenZhou Li, Shilei Zeng, Dayou Huang, Tianyi Ma, Yu Zhou <br>
+    <i> arXiv. 2026. </i>
+    <br> <a href="https://arxiv.org/pdf/2609.33353">[Paper]</a> <a href="https://github.com/HUST-SLOW/MACO">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/MACO" alt="GitHub stars"> <br>
+  </li>
+
+  <li id="arxiv25"> 
+    AnoRefiner: Anomaly-Aware Group-Wise Refinement for Zero-Shot Industrial Anomaly Detection
+    <br> Dayou Huang, Feng Xue, <span style="color:#b02418; font-weight:bold;">Xurui Li</span>, Yu Zhou <br>
+    <i> arXiv. 2025. </i>
+    <br> <a href="https://arxiv.org/pdf/2511.22595">[Paper]</a> <a href="https://github.com/HUST-SLOW/AnoRefiner">[Code]</a> <img src="https://img.shields.io/github/stars/HUST-SLOW/AnoRefiner" alt="GitHub stars"> <br>
   </li>
 </ol>
 
